@@ -1,0 +1,42 @@
+{
+  "name": "mait-scout",
+  "version": "1.0.0",
+  "description": "AI/browser-agent opportunity discovery tool for MAIT students",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "frontend": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scout": "node src/index.js",
+    "scout-verbose": "node src/index.js --verbose",
+    "test": "node test-agent.js",
+    "test-simple": "node test-simple-agent.js",
+    "test-api": "node run-real-test.js"
+  },
+  "keywords": [
+    "mait",
+    "scout",
+    "opportunities",
+    "hackathon",
+    "internship"
+  ],
+  "author": "MAIT Scout Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lucide-react": "^1.45.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.0"
+  },
+  "allowScripts": {
+    "esbuild@0.21.5": true
+  }
+}

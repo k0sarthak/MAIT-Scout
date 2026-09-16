@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="616"
+  height="200"
+  viewBox="0 0 616 200"
+  fill="none"
+  role="img"
+  aria-labelledby="webcmd-wordmark-title"
+>
+  <title id="webcmd-wordmark-title">webcmd</title>
+
+  <rect width="616" height="200" fill="#000000" aria-hidden="true"/>
+
+  <g aria-hidden="true">
+    <g transform="scale(0.5)">
+      <path d="M286 104H114C104.059 104 96 112.059 96 122V278C96 287.941 104.059 296 114 296H286C295.941 296 304 287.941 304 278V122C304 112.059 295.941 104 286 104Z" stroke="#56C5FF" stroke-width="7"/>
+      <path d="M96 150H304" stroke="#56C5FF" stroke-width="5"/>
+      <path d="M120 121.5C123.038 121.5 125.5 123.962 125.5 127C125.5 130.038 123.038 132.5 120 132.5C116.962 132.5 114.5 130.038 114.5 127C114.5 123.962 116.962 121.5 120 121.5Z" fill="#56C5FF" stroke="#56C5FF"/>
+      <path d="M142 121.5C145.038 121.5 147.5 123.962 147.5 127C147.5 130.038 145.038 132.5 142 132.5C138.962 132.5 136.5 130.038 136.5 127C136.5 123.962 138.962 121.5 142 121.5Z" fill="#56C5FF" stroke="#56C5FF"/>
+      <path d="M164 121.5C167.038 121.5 169.5 123.962 169.5 127C169.5 130.038 167.038 132.5 164 132.5C160.962 132.5 158.5 130.038 158.5 127C158.5 123.962 160.962 121.5 164 121.5Z" fill="#56C5FF" stroke="#56C5FF"/>
+      <path d="M150 196L182 224L150 252" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M198 252H250" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <text
+    x="210"
+    y="132"
+    font-family="'Courier New', Courier, monospace"
+    font-size="104"
+    font-weight="700"
+    letter-spacing="0"
+  ><tspan fill="#F8F8F4">web</tspan><tspan fill="#56C5FF">cmd</tspan></text>
+</svg>
