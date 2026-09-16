@@ -118,21 +118,3 @@ The project includes WebCMD browser automation for:
 4. **Creativity** (15%) - Smart scoring, explainable results
 5. **Demo & Storytelling** (10%) - Clear output, debugging info
 
-## Next Steps
-
-1. **Integrate Devfolio** with WebCMD browser
-2. **Add more campus sources** (MAIT portals)
-3. **Enrich scoring** with additional heuristics
-4. **Add persistence** for seen opportunities
-5. **Build simple web UI** for browsing
-
-## Error Handling
-
-- **Source failures**: Continue with available sources
-- **Browser unavailable**: Fallback to static/demo data
-- **Network issues**: Timeout handling, retry logic
-- **Data normalization**: Skip malformed entries
-
-## License
-
-MIT
